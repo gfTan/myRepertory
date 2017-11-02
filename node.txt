@@ -1,5 +1,5 @@
-git add 
+git add 文件名  	放入暂存区
 
-git status 
+git status		查看状态 
 
-git commit
+git commit		提交
