@@ -1,1 +1,5 @@
-git add node.txt
+git add 
+
+git status 
+
+git commit
