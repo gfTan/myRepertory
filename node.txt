@@ -2,7 +2,12 @@ git add 文件名  	放入暂存区
 
 git status		查看状态 
 
-git commit		提交
+git commit -m "注释"		提交
 
 git diff 文件名		与上个版本对比
+
+
+git reflog 版本号	退回最新版本
+
+git log 		 输出日志
 
