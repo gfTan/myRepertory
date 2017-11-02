@@ -3,3 +3,6 @@ git add 文件名  	放入暂存区
 git status		查看状态 
 
 git commit		提交
+
+git diff 文件名		与上个版本对比
+
